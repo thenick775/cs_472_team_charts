@@ -1,4 +1,7 @@
 # cs_472_team_charts
+
+[Try it live](https://rawcdn.githack.com/thenick775/cs_472_team_charts/7497c37b2748ee99a2fdb5dd865770eb1d4bbee2/line.html)
+
 This is a short program written in go to make generating team reporting charts more flexible, faster, and interactive
 
 Generation instructions:

@@ -3,9 +3,9 @@ This is a short program written in go to make generating team reporting charts m
 
 Generation instructions:
 
-- use `go run main.go` to generate the line.html file
+- use `go run main.go` to generate the `line.html` file
 
-- open this file in any browser
+- open the `line.html` file in any browser
 
 Update instructions:
 

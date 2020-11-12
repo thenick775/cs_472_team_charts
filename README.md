@@ -14,11 +14,11 @@ Generation instructions:
 
 Update instructions:
 
-- to update team commits, open main.go and adjust the values in the valsc variable instance of []TeamData
+- to update team commits, open `main.go` and adjust the values in the `valsc` variable instance of []TeamData
 
-- to update team tasks, open main.go and adjust the values in the valst variable instance of []TeamData
+- to update team tasks, open `main.go` and adjust the values in the `valst` variable instance of []TeamData
 
-- to adjust the names and order that names apear, adjust the order variable instance of []String
+- to adjust the names and order that names apear, open `main.go` and adjust the `order` variable instance of []String
 
 Features:
 

@@ -18,7 +18,7 @@ Update instructions:
 
 - to update team tasks, open `main.go` and adjust the values in the `valst` variable instance of []TeamData
 
-- to adjust the names and order that names apear, open `main.go` and adjust the `order` variable instance of []String
+- to adjust the order that names appear, open `main.go` and adjust the `order` variable instance of []String
 
 Features:
 

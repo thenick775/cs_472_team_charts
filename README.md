@@ -22,7 +22,7 @@ Update instructions:
 
 Features:
 
- -Download each chart as an image
+- Download each chart as an image
 
 - View raw data input in graphic
 

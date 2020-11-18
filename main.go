@@ -100,7 +100,7 @@ func lineSmooth(which bool) *charts.Line {
 			Feature: &opts.ToolBoxFeature{
 				&opts.ToolBoxFeatureSaveAsImage{
 					Show:  true,
-					Type: "png",
+					Type: "png", //supports jpeg, png, svg
 					Name: "team_graphs",
 					Title: "Save",
 				},

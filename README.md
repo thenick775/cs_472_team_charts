@@ -26,4 +26,4 @@ Features:
 
 - View raw data input in graphic
 
-- Select which lines are displayed to inspect max value in the tooltip
+- Select which lines are displayed, can inspect max value in the tooltip
